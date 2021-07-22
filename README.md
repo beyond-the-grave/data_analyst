@@ -1,2 +1,3 @@
-# code
-Portfolio
+# Data Analyst Portfolio
+
+Some projects and skills
