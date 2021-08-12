@@ -19,7 +19,6 @@ Dataset -- products -- includes 606 entries.
 
 # Search
 
-Merg:
   - The data has been processed and cleared of unnecessary columns
   - The percentage of missing information was also checked.
   - Empty values have been partially restored. But some of the empty values had to be removed due to the lack of information on the prodcuts. Attempts were made to search for the same product by name, product id and categories.
