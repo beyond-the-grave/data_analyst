@@ -12,7 +12,9 @@ Used libraries:
 # Datasets Information
 
 Dataset -- customers -- includes 18484 entries.
+<br />
 Dataset -- sales -- includes 58168 entries.
+<br />
 Dataset -- products -- includes 606 entries.
 
 # Search
