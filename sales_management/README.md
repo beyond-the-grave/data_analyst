@@ -1,5 +1,18 @@
 # Sales Management Project
 
+### Used tools:
+  - SSMS (Clearing tables)
+  - Jupyter Notebook (Data cleansing and Data preparation for the dashboard)
+  - Jupyter Lab (Creating the plotly dash app)
+  - Power BI (Creating an interactive dashboard)
+  - Heroku (Upload the Plotly Dash App)
+
+### Used languages:
+  - SQL
+  - Python
+  - HTML
+  - CSS 
+
 Search for the necessary data at the request of the customer.
 
 Used libraries:
@@ -8,6 +21,8 @@ Used libraries:
   - seaborn
   - itertools
   - matplotlib
+  - dash
+  - plotly.express
 
 # Datasets Information
 
@@ -16,6 +31,8 @@ Dataset -- customers -- includes 18484 entries.
 Dataset -- sales -- includes 58168 entries.
 <br />
 Dataset -- products -- includes 606 entries.
+<br />
+Dataset -- calendar -- includes 1096 entries.
 
 # Search
 
@@ -27,3 +44,4 @@ Dataset -- products -- includes 606 entries.
   - The analysis revealed the age of the target audience.
   - Cities with the highest demand are identified.
   - Identified products with the maximum demand for the general indicators and in each subcategory separately.
+  - Create an interactive dashboard as an app and in Power BI
